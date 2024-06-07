@@ -17,6 +17,4 @@ NavigationView {
 
 <img src="swift-list.png" alt="drawing" width="400"/>
 
-<video width="320" height="240" controls>
-  <source src="https://xfido.com/publicfile/swift-list.mov" type="video/mp4">
-</video>
+https://xfido.com/publicfile/swift-list.mov
