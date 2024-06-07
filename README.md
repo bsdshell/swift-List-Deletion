@@ -17,7 +17,6 @@ NavigationView {
 
 <img src="swift-list.png" alt="drawing" width="400"/>
 
-<p align="center">
-  <iframe src="https://xfido.com/publicfile/swift-list.mov" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</p>
-
+<video width="320" height="240" controls>
+  <source src="https://xfido.com/publicfile/swift-list.mov" type="video/mp4">
+</video>
