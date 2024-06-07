@@ -15,5 +15,6 @@ NavigationView {
         }
 ```
 
-![image](swift-list.png)
+<img src="swift-list.png" alt="drawing" width="400"/>
+
 
