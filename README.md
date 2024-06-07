@@ -14,7 +14,8 @@ NavigationView {
             .navigationBarItems(trailing: EditButton())
         }
 ```
-
+<center>
 <img src="swift-list.png" alt="drawing" width="400"/>
+</center>
 
 
