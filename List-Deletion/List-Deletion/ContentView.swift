@@ -44,6 +44,9 @@ struct ContentView: View {
     func deleteRow(at offsets: IndexSet) {
         recentProducts.remove(atOffsets: offsets)
     }
+    func insertItem(at plit : [Product]){
+        
+    }
 }
 
 #Preview {
